@@ -1,4 +1,4 @@
-### Aplicación Movil con MySQL
+# Aplicación Movil con MySQL
 
 ## Base de datos
 Simplemente tomar el archivo "agenda_db.sql" e importarlo mediante tu phpMyAdmin, por ejemplo.
