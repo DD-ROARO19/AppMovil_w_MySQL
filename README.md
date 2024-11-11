@@ -1,7 +1,7 @@
 ### Aplicación Movil con MySQL
 
 ## Base de datos
-Simplemente tomar el archivo "agenda_db.sql" e importarlo.
+Simplemente tomar el archivo "agenda_db.sql" e importarlo mediante tu phpMyAdmin, por ejemplo.
 
 ## Archivos de control
 Copiar el archivo "practica10" a htdocs
